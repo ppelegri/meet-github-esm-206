@@ -52,6 +52,12 @@ The organization of this document probably seems strange. That's because it's pa
 
 ##### Some ringtail cat facts (from [Arizona-Sonora Desert Museum](https://www.desertmuseum.org/kids/oz/long-fact-sheets/Ringtail.php)):
 
+We'll also learn about `knitr::include_graphics()`
+
+Fun facts:
+- They can rotate their hind feet 180 degrees for awesome climbing
+- Not endangered, just very elusive
+- Closely related to raccoons, not cats
 
 
 ###
