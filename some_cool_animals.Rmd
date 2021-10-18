@@ -1,6 +1,6 @@
 ---
 title: "Some cool animal facts"
-author: "Allison Horst"
+author: "Patrick Pelegri-O'Day"
 output: html_document
 ---
 
@@ -45,6 +45,14 @@ The organization of this document probably seems strange. That's because it's pa
 - Pika are of order *Lagomorpha* (which also includes rabbits)
 - Pika live in high altitude talus slopes
 - American pika are already disappearing from the Sierra Nevada
+
+#### Ring-tailed cats
+
+![Ringtail cat(courtesy of VA Zoo)](img/ringtail_cat.jpg)
+
+##### Some ringtail cat facts (from [Arizona-Sonora Desert Museum](https://www.desertmuseum.org/kids/oz/long-fact-sheets/Ringtail.php)):
+
+
 
 ###
 
